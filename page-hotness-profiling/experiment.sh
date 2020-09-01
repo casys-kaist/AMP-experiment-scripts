@@ -1,0 +1,10 @@
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage never -scanning_interval 1
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage never -scanning_interval 4
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage never -scanning_interval 8
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage never -scanning_interval 16
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage never -scanning_interval 32
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage always -scanning_interval 1
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage always -scanning_interval 4
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage always -scanning_interval 8
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage always -scanning_interval 16
+python3 experiment.py -result_dir /root/experiment-results -transparent_hugepage always -scanning_interval 32
