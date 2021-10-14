@@ -1,4 +1,5 @@
 # AMP-experiment-scripts
+This repository offers experiment scripts and plotting scripts for AMP.
 
 ## Acknowledgement
 We thank the anonymous reviewers for their insightful feedbacks and comments. This
